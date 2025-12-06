@@ -1,0 +1,6 @@
+Project 3/
+    ├── dataset/
+    │   └── titanic.csv            <-- (The data file)
+    ├── images/                    <-- (Folder for saving plots)
+    ├── titanic_eda.ipynb          <-- (Your main code file)
+    └── README.md                  <-- (Project documentation)

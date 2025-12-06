@@ -1,0 +1,6 @@
+Project 2/
+    ├── dataset/
+    │   └── titanic.csv            <-- (Copy from Project 3)
+    ├── images/                    <-- (Folder for saving plots)
+    ├── titanic_logistic.ipynb     <-- (Your main code file)
+    └── README.md                  <-- (Project documentation)

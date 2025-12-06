@@ -1,0 +1,6 @@
+Project 1/
+    ├── dataset/
+    │   └──stock_data.csv            <-- (Copy from Project 3)
+    ├── images/                    <-- (Folder for saving plots)
+    ├── stock_forecasting.ipynb     <-- (Your main code file)
+    └── README.md                  <-- (Project documentation)

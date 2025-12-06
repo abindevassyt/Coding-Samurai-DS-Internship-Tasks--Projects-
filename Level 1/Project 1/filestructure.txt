@@ -1,0 +1,6 @@
+Project 1/
+    ├──_Superstore_Sales_Analysis dataset/
+    │   └── sample_superstore.csv   <-- (The data file)
+    ├── images/                     <-- (Empty folder for saving plots)
+    ├── sales_analysis.ipynb        <-- (Your main code file)
+    └── README.md                   <-- (Project documentation)
